@@ -1,0 +1,17 @@
+{
+  "name": "toseq",
+  "author": {
+    "name": "Azat Akhmetshin",
+    "email": "raakhme@gmail.com"
+  },
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.112"
+  }
+}
